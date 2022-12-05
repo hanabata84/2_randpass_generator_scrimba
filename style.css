@@ -57,6 +57,7 @@ button {
     border: none;
 
     color: white;
+    cursor: pointer;
 }
 
 #generate-cont {
